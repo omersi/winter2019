@@ -5,7 +5,6 @@
 #1. trying to reach page from within the server resolved with the same error. 
 #2. fixing apache server 
 #3. changing '/etc/apache2/sites-enabled/000-default' line 18 "deny from all" > "Allow from all"
-echo "Excersize3"
 sudo chown vagrant:root /etc/apache2/sites-enabled/
 sed -i.bkp '13s/deny/Allow/' /etc/apache2/sites-enabled/000-default
 echo 'ServerName localhost' >>  /etc/apache2/httpd.conf

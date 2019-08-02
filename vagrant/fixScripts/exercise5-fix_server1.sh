@@ -1,6 +1,5 @@
 #!/bin/bash
 #add fix to exercise5-server1 here
-echo 'exercise5-server1'
 echo '-----BEGIN RSA PRIVATE KEY-----
 MIIEpAIBAAKCAQEAxRdg+Tmssi9Jd4f7JEZlhOBTNepg8GCRm1F5jCxygpLO1r49
 4pzPlxIbBSdONUTKacZEA3w2x5nznjehfCkhJysBgjmeahylLvZ5LZvBKP0fNdX3

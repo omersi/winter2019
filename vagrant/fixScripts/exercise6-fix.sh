@@ -1,6 +1,5 @@
 #!/bin/bash
 #add fix to exercise6-fix here
-echo "exercise6-fix.sh"
 
 array=( $@ )
 len=${#array[@]}
